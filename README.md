@@ -2,9 +2,6 @@
 
 A dynamic Power BI dashboard designed to track real-time progress of a humanitarian WASH intervention by Help – Hilfe zur Selbsthilfe in South Sudan.
 
-Dashboard Preview
-![Dashboard Screenshot](MEAL Tracking in WASH.png")
-
 
 ##  Project Overview
 
