@@ -53,6 +53,7 @@ A dynamic Power BI dashboard designed to track real-time progress of a humanitar
 
 🔗 [LinkedIn – Stephanie Savai](https://www.linkedin.com/in/stephanie-savai-pmp-meal-dpro-mph-5466b51b5)  
 📂 [GitHub Portfolio](https://github.com/ImpactIntel-AI)  
+[Medium Artcile](https://medium.com/@savai137)
 
 
 
